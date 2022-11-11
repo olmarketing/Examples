@@ -1,0 +1,15 @@
+D:\Обучение\Программирование\Examples\Ex 007\bin\Debug\net7.0\Ex 007.exe
+D:\Обучение\Программирование\Examples\Ex 007\bin\Debug\net7.0\Ex 007.deps.json
+D:\Обучение\Программирование\Examples\Ex 007\bin\Debug\net7.0\Ex 007.runtimeconfig.json
+D:\Обучение\Программирование\Examples\Ex 007\bin\Debug\net7.0\Ex 007.dll
+D:\Обучение\Программирование\Examples\Ex 007\bin\Debug\net7.0\Ex 007.pdb
+D:\Обучение\Программирование\Examples\Ex 007\obj\Debug\net7.0\Ex 007.csproj.AssemblyReference.cache
+D:\Обучение\Программирование\Examples\Ex 007\obj\Debug\net7.0\Ex 007.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Программирование\Examples\Ex 007\obj\Debug\net7.0\Ex 007.AssemblyInfoInputs.cache
+D:\Обучение\Программирование\Examples\Ex 007\obj\Debug\net7.0\Ex 007.AssemblyInfo.cs
+D:\Обучение\Программирование\Examples\Ex 007\obj\Debug\net7.0\Ex 007.csproj.CoreCompileInputs.cache
+D:\Обучение\Программирование\Examples\Ex 007\obj\Debug\net7.0\Ex 007.dll
+D:\Обучение\Программирование\Examples\Ex 007\obj\Debug\net7.0\refint\Ex 007.dll
+D:\Обучение\Программирование\Examples\Ex 007\obj\Debug\net7.0\Ex 007.pdb
+D:\Обучение\Программирование\Examples\Ex 007\obj\Debug\net7.0\Ex 007.genruntimeconfig.cache
+D:\Обучение\Программирование\Examples\Ex 007\obj\Debug\net7.0\ref\Ex 007.dll
